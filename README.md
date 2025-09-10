@@ -71,10 +71,10 @@ Passionate Web Developer | Software Development Enthusiast
 
 ### Connect with me  
 <div align="center">
-<a href="https://x/refilutub" target="_blank">
+<a href="https://x.com/refilutub" target="_blank">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/refilutub" target="_blank">
+<a href="https://linkedin.com/in/maksym-borsuk" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
 </a>
 <a href="https://t.me/maksymborsuk">
